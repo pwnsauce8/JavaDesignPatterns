@@ -105,7 +105,7 @@ Java Design patterns
 
 ## 1. [Абстрактная фабрика]()
 ## 2. [Строитель]()
-## 3. [Фабричный метод == Factory Method]() 
+## 3. [Фабричный метод == Factory Method](https://github.com/pwnsauce8/JavaDesignPatterns/tree/master/FactoryMethod/src/FactoryMethod) 
 
 #### Цель:
 Создание интерфейса, который создаёт объект. При этом, выбор того, экземпляр какого класса создавать
